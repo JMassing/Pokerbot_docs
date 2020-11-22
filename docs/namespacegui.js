@@ -1,0 +1,26 @@
+var namespacegui =
+[
+    [ "AskForSaveWin", "classgui_1_1_ask_for_save_win.html", "classgui_1_1_ask_for_save_win" ],
+    [ "Button", "classgui_1_1_button.html", "classgui_1_1_button" ],
+    [ "CardImageWin", "classgui_1_1_card_image_win.html", "classgui_1_1_card_image_win" ],
+    [ "GuiCaptureInterface", "classgui_1_1_gui_capture_interface.html", "classgui_1_1_gui_capture_interface" ],
+    [ "GuiContext", "classgui_1_1_gui_context.html", "classgui_1_1_gui_context" ],
+    [ "GuiDetectionInterface", "classgui_1_1_gui_detection_interface.html", "classgui_1_1_gui_detection_interface" ],
+    [ "GuiPokerInterface", "classgui_1_1_gui_poker_interface.html", "classgui_1_1_gui_poker_interface" ],
+    [ "ImageDrawer", "classgui_1_1_image_drawer.html", "classgui_1_1_image_drawer" ],
+    [ "InputField", "classgui_1_1_input_field.html", "classgui_1_1_input_field" ],
+    [ "IObserver", "classgui_1_1_i_observer.html", "classgui_1_1_i_observer" ],
+    [ "ISubject", "classgui_1_1_i_subject.html", "classgui_1_1_i_subject" ],
+    [ "IWindow", "classgui_1_1_i_window.html", "classgui_1_1_i_window" ],
+    [ "LayoutConfig", "structgui_1_1_layout_config.html", "structgui_1_1_layout_config" ],
+    [ "LiveImageWin", "classgui_1_1_live_image_win.html", "classgui_1_1_live_image_win" ],
+    [ "MainMenuBar", "classgui_1_1_main_menu_bar.html", "classgui_1_1_main_menu_bar" ],
+    [ "NextRoundWin", "classgui_1_1_next_round_win.html", "classgui_1_1_next_round_win" ],
+    [ "PlaceBetWin", "classgui_1_1_place_bet_win.html", "classgui_1_1_place_bet_win" ],
+    [ "PokerWin", "classgui_1_1_poker_win.html", "classgui_1_1_poker_win" ],
+    [ "RankImageWin", "classgui_1_1_rank_image_win.html", "classgui_1_1_rank_image_win" ],
+    [ "SettingsWin", "classgui_1_1_settings_win.html", "classgui_1_1_settings_win" ],
+    [ "Slider", "classgui_1_1_slider.html", "classgui_1_1_slider" ],
+    [ "SuitImageWin", "classgui_1_1_suit_image_win.html", "classgui_1_1_suit_image_win" ],
+    [ "WhoWonWin", "classgui_1_1_who_won_win.html", "classgui_1_1_who_won_win" ]
+];

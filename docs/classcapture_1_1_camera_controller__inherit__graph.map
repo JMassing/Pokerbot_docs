@@ -1,0 +1,4 @@
+<map id="capture::CameraController" name="capture::CameraController">
+<area shape="rect" id="node1" title="This class controls the video I/O. It implements the CameraDevice interface using the OpenCV VideoCap..." alt="" coords="5,80,179,107"/>
+<area shape="rect" id="node2" href="$classcapture_1_1_i_camera_device.html" title="Interface which defines minimum required functionality for camera control." alt="" coords="13,5,171,32"/>
+</map>

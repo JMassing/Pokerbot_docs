@@ -1,0 +1,5 @@
+<map id="detect::Card" name="detect::Card">
+<area shape="rect" id="node1" title="Data Structure for detected cards. Extends BaseCard with the detected center_point and card contour a..." alt="" coords="43,124,137,151"/>
+<area shape="rect" id="node2" href="$struct_base_card.html" title="Data structure representing a playing card." alt="" coords="5,5,84,32"/>
+<area shape="rect" id="node3" href="$struct_image.html" title="Wrapper for cv::Mat. This makes sure we have a deep copy when using a copy constructor or an assignme..." alt="" coords="108,5,165,32"/>
+</map>

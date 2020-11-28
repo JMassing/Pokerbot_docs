@@ -1,0 +1,4 @@
+<map id="detect::IDetectGui" name="detect::IDetectGui">
+<area shape="rect" id="node1" title="Interface which defines communication between gui and detection module. Implemented in gui module." alt="" coords="27,5,154,32"/>
+<area shape="rect" id="node2" href="$classgui_1_1_gui_detection_interface.html" title="Implements communication interface between detection and GUI module." alt="" coords="5,80,176,107"/>
+</map>

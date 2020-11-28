@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classcapture_1_1_i_camera_device.html" title="Interface which defines minimum required functionality for camera control." alt="" coords="5,5,164,32"/>
+<area shape="rect" id="node2" href="$classcapture_1_1_camera_controller.html" title="This class controls the video I/O. It implements the CameraDevice interface using the OpenCV VideoCap..." alt="" coords="212,5,385,32"/>
+</map>

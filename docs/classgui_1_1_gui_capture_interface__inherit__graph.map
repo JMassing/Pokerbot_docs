@@ -1,0 +1,4 @@
+<map id="gui::GuiCaptureInterface" name="gui::GuiCaptureInterface">
+<area shape="rect" id="node1" title="Implements communication interface between capture and GUI module." alt="" coords="5,80,167,107"/>
+<area shape="rect" id="node2" href="$classcapture_1_1_i_capture_gui.html" title="Interface which defines communication between capture and GUI module. Implemented in GUI module." alt="" coords="15,5,157,32"/>
+</map>

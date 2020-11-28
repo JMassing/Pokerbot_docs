@@ -1,0 +1,4 @@
+<map id="detect::Card" name="detect::Card">
+<area shape="rect" id="node1" title="Data Structure for detected cards. Extends BaseCard with the detected center_point and card contour a..." alt="" coords="5,80,99,107"/>
+<area shape="rect" id="node2" href="$struct_base_card.html" title="Data structure representing a playing card." alt="" coords="13,5,91,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classdetect_1_1_i_detect_capture.html" title="Interface which defines communication between capture and detection module. Implemented in capture mo..." alt="" coords="5,5,157,32"/>
+<area shape="rect" id="node2" href="$classcapture_1_1_capture_detect_interface.html" title="Implements communication interface between detection and capture module. Exposes captured live frame ..." alt="" coords="205,5,411,32"/>
+</map>

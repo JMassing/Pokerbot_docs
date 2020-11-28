@@ -1,0 +1,4 @@
+<map id="detect::IDetectCapture" name="detect::IDetectCapture">
+<area shape="rect" id="node1" title="Interface which defines communication between capture and detection module. Implemented in capture mo..." alt="" coords="32,5,184,32"/>
+<area shape="rect" id="node2" href="$classcapture_1_1_capture_detect_interface.html" title="Implements communication interface between detection and capture module. Exposes captured live frame ..." alt="" coords="5,80,211,107"/>
+</map>

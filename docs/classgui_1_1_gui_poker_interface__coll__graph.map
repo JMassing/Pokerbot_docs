@@ -1,0 +1,6 @@
+<map id="gui::GuiPokerInterface" name="gui::GuiPokerInterface">
+<area shape="rect" id="node1" title="Implements communication interface between poker and GUI module." alt="" coords="145,95,296,121"/>
+<area shape="rect" id="node2" href="$classpoker_1_1_i_poker_gui.html" title="Interface which defines communication between poker and GUI module. Implemented in GUI module." alt="" coords="5,5,124,32"/>
+<area shape="rect" id="node3" href="$structpoker_1_1_game_settings.html" title="Data structure containing settings for the poker game." alt="" coords="148,5,293,32"/>
+<area shape="rect" id="node4" href="$structpoker_1_1_data_poker.html" title="Data structure containing poker module output data to GUI module." alt="" coords="318,5,441,32"/>
+</map>

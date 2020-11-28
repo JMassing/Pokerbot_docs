@@ -1,0 +1,4 @@
+<map id="poker::Game" name="poker::Game">
+<area shape="rect" id="node1" title="Coordinates the poker module objects and the communication to the other modules during a game of poke..." alt="" coords="18,95,115,121"/>
+<area shape="rect" id="node2" href="$structpoker_1_1_data_poker.html" title="Data structure containing poker module output data to GUI module." alt="" coords="5,5,128,32"/>
+</map>

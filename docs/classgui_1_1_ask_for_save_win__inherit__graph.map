@@ -1,0 +1,4 @@
+<map id="gui::AskForSaveWin" name="gui::AskForSaveWin">
+<area shape="rect" id="node1" title="Window that pops up when hitting the &quot;save as default button&quot;, asking the user if he wants to permane..." alt="" coords="5,80,145,107"/>
+<area shape="rect" id="node2" href="$classgui_1_1_i_window.html" title="Interface which defines minimum required functionality for Gui windows." alt="" coords="27,5,123,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="detect::CardBuffer&lt; N &gt;" name="detect::CardBuffer&lt; N &gt;">
+<area shape="rect" id="node1" title="RingBuffer Pattern adapted for buffering Cards. &#160;&#160;The card buffer is used to account for outliers in ..." alt="" coords="5,95,164,121"/>
+<area shape="rect" id="node2" href="$classtemplates_1_1_ring_buffer.html" title=" " alt="" coords="11,5,158,47"/>
+</map>

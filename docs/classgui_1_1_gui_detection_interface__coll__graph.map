@@ -1,0 +1,5 @@
+<map id="gui::GuiDetectionInterface" name="gui::GuiDetectionInterface">
+<area shape="rect" id="node1" title="Implements communication interface between detection and GUI module." alt="" coords="66,95,237,121"/>
+<area shape="rect" id="node2" href="$classdetect_1_1_i_detect_gui.html" title="Interface which defines communication between gui and detection module. Implemented in gui module." alt="" coords="5,5,132,32"/>
+<area shape="rect" id="node3" href="$structdetect_1_1_im_proc_settings.html" title="Data structure containing image processing settings." alt="" coords="157,5,311,32"/>
+</map>

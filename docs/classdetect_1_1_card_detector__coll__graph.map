@@ -1,0 +1,5 @@
+<map id="detect::CardDetector" name="detect::CardDetector">
+<area shape="rect" id="node1" title="Detects Cards in the live image." alt="" coords="88,95,231,121"/>
+<area shape="rect" id="node2" href="$classdetect_1_1_i_card_detector.html" title="Interface which defines minimum required functionality for card detection class." alt="" coords="5,5,151,32"/>
+<area shape="rect" id="node3" href="$structdetect_1_1_data_detect.html" title="Data structure containing detection module output data to poker module." alt="" coords="175,5,306,32"/>
+</map>

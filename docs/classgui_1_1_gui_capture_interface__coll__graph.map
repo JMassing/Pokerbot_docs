@@ -1,0 +1,6 @@
+<map id="gui::GuiCaptureInterface" name="gui::GuiCaptureInterface">
+<area shape="rect" id="node1" title="Implements communication interface between capture and GUI module." alt="" coords="174,95,335,121"/>
+<area shape="rect" id="node2" href="$classcapture_1_1_i_capture_gui.html" title="Interface which defines communication between capture and GUI module. Implemented in GUI module." alt="" coords="5,5,147,32"/>
+<area shape="rect" id="node3" href="$structcapture_1_1_camera_settings.html" title="Data Structure containing Camera Settings." alt="" coords="171,5,338,32"/>
+<area shape="rect" id="node4" href="$struct_image.html" title="Wrapper for cv::Mat. This makes sure we have a deep copy when using a copy constructor or an assignme..." alt="" coords="365,5,422,32"/>
+</map>

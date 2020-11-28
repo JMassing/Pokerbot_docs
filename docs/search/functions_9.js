@@ -1,0 +1,7 @@
+var searchData=
+[
+  ['layoutconfig',['LayoutConfig',['../structgui_1_1_layout_config.html#ac57a09f90b1ca5628d7becceddd7f149',1,'gui::LayoutConfig::LayoutConfig()'],['../structgui_1_1_layout_config.html#a45bbcee6b54824306f5f11f4ff5569d7',1,'gui::LayoutConfig::LayoutConfig(const LayoutConfig &amp;other)=default'],['../structgui_1_1_layout_config.html#a72dab6b1b0789362da505e5b59559e98',1,'gui::LayoutConfig::LayoutConfig(LayoutConfig &amp;&amp;other) noexcept=default']]],
+  ['listenwindowclose',['listenWindowClose',['../classgui_1_1_gui_context.html#a68224383af3de102e4342c406c8a1f0c',1,'gui::GuiContext']]],
+  ['liveimagewin',['LiveImageWin',['../classgui_1_1_live_image_win.html#acdc8a55dacc4029b48a3e34d22ae1e7b',1,'gui::LiveImageWin::LiveImageWin(const std::string &amp;name, bool &amp;show, LayoutConfig &amp;controls, Image &amp;live_frame, std::vector&lt; detect::Card &gt; &amp;cards, std::shared_ptr&lt; GuiPokerInterface &gt; &amp;poker_if, const int &amp;flag=0)'],['../classgui_1_1_live_image_win.html#ae354253f4fb3f6db1b3c79aa9a8d9033',1,'gui::LiveImageWin::LiveImageWin(const LiveImageWin &amp;other)=default'],['../classgui_1_1_live_image_win.html#adb85f7c85b11f56e7455f0da9a21ac85',1,'gui::LiveImageWin::LiveImageWin(LiveImageWin &amp;&amp;other) noexcept=default']]],
+  ['logrun',['logRun',['../classpoker_1_1_monte_carlo.html#af3ec270c323700d1aa776ee03964d258',1,'poker::MonteCarlo']]]
+];

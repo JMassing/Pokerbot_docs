@@ -1,0 +1,5 @@
+<map id="capture::CameraController" name="capture::CameraController">
+<area shape="rect" id="node1" title="This class controls the video I/O. It implements the CameraDevice interface using the OpenCV VideoCap..." alt="" coords="63,95,237,121"/>
+<area shape="rect" id="node2" href="$classcapture_1_1_i_camera_device.html" title="Interface which defines minimum required functionality for camera control." alt="" coords="5,5,164,32"/>
+<area shape="rect" id="node3" href="$struct_image.html" title="Wrapper for cv::Mat. This makes sure we have a deep copy when using a copy constructor or an assignme..." alt="" coords="188,5,245,32"/>
+</map>

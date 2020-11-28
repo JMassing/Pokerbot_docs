@@ -1,0 +1,4 @@
+<map id="poker::Player" name="poker::Player">
+<area shape="rect" id="node1" title="Data structure representing a player. Tracking the player hand, money, decision, bet and bet size." alt="" coords="5,95,104,121"/>
+<area shape="rect" id="node2" href="$classpoker_1_1_hand.html" title="Object representing a players hand." alt="" coords="9,5,101,32"/>
+</map>
